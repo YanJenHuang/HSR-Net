@@ -2,11 +2,12 @@
 
 - Download imdb and wiki "face only" datasets in:
 https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/
-- md5sum
--- 44b7548f288c14397cb7a7bab35ebe14  imdb_crop.tar
--- f536eb7f5eae229ae8f286184364b42b  wiki_crop.tar
 
-- Download morph2 (MORPH Academic Set) datasets:
+- md5sum
+1. imdb_crop.tar 44b7548f288c14397cb7a7bab35ebe14
+2. wiki_crop.tar f536eb7f5eae229ae8f286184364b42b
+
+- Download morph2 (MORPH Academic Set) dataset:
 https://uncw.edu/myuncw/research/innovation-commercialization/technology-portfolio/morph
 
 # Create datasets
